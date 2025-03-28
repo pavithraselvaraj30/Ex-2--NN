@@ -125,8 +125,6 @@ plt.show()
 
 ![426919042-423505ae-48f7-405c-b5dc-ec38cb64b718](https://github.com/user-attachments/assets/c09b9884-aba6-440c-a7f9-a90814925bef)
 
-![426919042-423505ae-48f7-405c-b5dc-ec38cb64b718](https://github.com/user-attachments/assets/a9ece2f0-bf48-4486-9086-9932b756d046)
-
 
 
 
