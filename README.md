@@ -1,6 +1,6 @@
 <H3>Name: Pavithra S</H3>
 <H3>Register no.212223230147</H3>
-<H3>Date:278.3.25</H3>
+<H3>Date:28.3.25</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
@@ -121,15 +121,22 @@ plt.show()
 ```
 
 # OUTPUT:
-![426919042-423505ae-48f7-405c-b5dc-ec38cb64b718](https://github.com/user-attachments/assets/31a0cb42-8fcf-45cd-888a-4cf2955c10e8)
-
- ![426919042-423505ae-48f7-405c-b5dc-ec38cb64b718](https://github.com/user-attachments/assets/d71683e3-ce5a-4e9f-9976-a70fe75ffbf5)
-
-![426919094-bc1b9cd3-709b-490b-8b92-1ec89ea096c8](https://github.com/user-attachments/assets/a4d54f0c-de1a-4449-af68-2b2453d8eb97)
 
 
- 
-![426919147-65114958-df1b-4d66-8fd2-e4984218df8c](https://github.com/user-attachments/assets/b6f46778-fe63-4e39-b566-baa9242ecbb8)
+![426919042-423505ae-48f7-405c-b5dc-ec38cb64b718](https://github.com/user-attachments/assets/c09b9884-aba6-440c-a7f9-a90814925bef)
+
+
+
+![426919042-423505ae-48f7-405c-b5dc-ec38cb64b718](https://github.com/user-attachments/assets/a9ece2f0-bf48-4486-9086-9932b756d046)
+
+
+![426919094-bc1b9cd3-709b-490b-8b92-1ec89ea096c8](https://github.com/user-attachments/assets/5b72691a-20ed-40f2-8a9d-10f6ca2d7227)
+
+
+
+![426919147-65114958-df1b-4d66-8fd2-e4984218df8c](https://github.com/user-attachments/assets/71467c43-d5b4-466a-9c3a-a0e350d77dfe)
+
+
 
 
 # RESULT:
